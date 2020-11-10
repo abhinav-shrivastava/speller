@@ -1,5 +1,5 @@
 # speller
-A program that spell-checks a file
+A program that spell-checks a file using Trie
 
 Using Trie datastructure this program spell checks a file and lists all the incorrects words. Ensures there is no memory leak and is implemented in C.
 
